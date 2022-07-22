@@ -1,0 +1,61 @@
+/*Login and Sign up Styling.*/
+.form1 {
+    margin-top: 141px;
+    margin-left: 40%;
+    border: 2px solid black;
+
+    height: 400px;
+    width: 265px;
+    background-color: rgb(255 236 250);
+
+}
+
+.form {
+    margin-top: 30px;
+}
+
+/*Input 1 styling */
+.inp1 {
+
+    margin-left: 45px;
+}
+
+.inp1:hover {
+    border-color: rgb(26, 4, 223);
+}
+
+/*Input 2 styling */
+.inp2 {
+    margin-left: 45px;
+}
+
+.inp2:hover {
+    border-color: rgb(26, 4, 223);
+}
+
+/*Label styling */
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 88px;
+}
+
+/*Button styling */
+.btn {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 180px;
+
+
+}
+
+.robo {
+    height: 120px;
+    margin-left: 65px;
+
+}
+
+.error {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 15px;
+    color: red;
+}
